@@ -31,16 +31,16 @@ export interface App {
     },
     {
       id: "golbal-tasker",
-      title: "Global tasker an IOS/Andriod mobile App -- *(WIP)*",
+      title: "Global tasker an IOS/Andriod mobile App - *WIP*",
       description:
-        "In this app it's focuse on the posters ad tasker and bridging the gap within the market at resonable rates",
+        "In this app it's focus on the global posters and tasker and bridging the gap within the market at resonable rates",
       tech: ["React-Native", "Expo", "Typescript", "Javascript", "Superbase", "PostGres DB"],
     },
     {
       id: "ghost-ledger",
-      title: "Ghost Ledger an IOS/Andriod mobile App -- *(WIP)*",
+      title: "Ghost Ledger an IOS/Andriod mobile App - *WIP*",
       description:
-        "In this app it's focuse on the the individual tracking/monitoring there finances ",
+        "In this app it's focus on the the individual tracking/monitoring their finances ",
       tech: ["React-Native", "Expo", "Typescript", "Javascript", "Superbase", "PostGres DB"],
     },
   ];
