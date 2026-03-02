@@ -42,7 +42,7 @@ export default function ContactForm() {
         name="name"
         required
         placeholder="Your name"
-        className="w-full border rounded-lg p-3"
+        className="w-full border rounded-lg p-3 bg-white text-black placeholder-gray-500"
       />
 
       <input
@@ -50,7 +50,7 @@ export default function ContactForm() {
         type="email"
         required
         placeholder="Your email"
-        className="w-full border rounded-lg p-3"
+        className="w-full border rounded-lg p-3 bg-white text-black placeholder-gray-500"
       />
 
       <textarea
@@ -58,7 +58,7 @@ export default function ContactForm() {
         required
         rows={5}
         placeholder="Your message"
-        className="w-full border rounded-lg p-3"
+        className="w-full border rounded-lg p-3 bg-white text-black placeholder-gray-500"
       />
 
       <button
