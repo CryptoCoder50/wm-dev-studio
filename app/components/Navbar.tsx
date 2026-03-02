@@ -8,7 +8,11 @@ export default function Navbar() {
       {/* Logo */}
       <div className="flex items-center gap-3">
         <Link href="/">
-          <Image src="/Logo.png" alt="WM Dev Studio" width={40} height={40} />
+          <Image src="/SmLogo.png" 
+          alt="WM Dev Studio" 
+          width={40} 
+          height={40}
+           />
         </Link>
         <span className="font-semibold text-lg text-white">
           WM Dev Studio
