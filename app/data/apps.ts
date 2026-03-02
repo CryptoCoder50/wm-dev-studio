@@ -25,7 +25,7 @@ export interface App {
       id: "moonwalker-swap-dex",
       title: "Moonwalker Swap Dex",
       description:
-        "BSC/EVM-based cryptocurrecy Dex with staking, vesting and Defi",
+        "BSC/EVM-based cryptocurrency Dex with staking, vesting and Defi",
       tech: ["Solidity", "Next.js", "Typescript", "EVM", "GraphQl"],
       url: "https://moon-walker-swap-front-end-main.vercel.app/",
     },
