@@ -32,7 +32,7 @@ export default function Navbar() {
         </Link>
 
         <Link
-          href="#contact"
+          href="/contact"
           className="text-white/70 hover:text-white transition duration-200"
         >
           Contact
