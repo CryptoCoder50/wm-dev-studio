@@ -27,7 +27,7 @@ export default function Hero() {
           View Apps
         </a>
         <a
-          href="/contact"
+          href="/contactus"
           className="px-6 py-3 border border-slate-300 rounded-lg hover:bg-slate-100 transition"
         >
           Contact

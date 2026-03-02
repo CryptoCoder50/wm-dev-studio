@@ -8,7 +8,7 @@ export default function Navbar() {
       {/* Logo */}
       <div className="flex items-center gap-3">
         <Link href="/">
-          <Image src="/logo.png" alt="WM Dev Studio" width={40} height={40} />
+          <Image src="/Logo.png" alt="WM Dev Studio" width={40} height={40} />
         </Link>
         <span className="font-semibold text-lg text-white">
           WM Dev Studio
@@ -32,7 +32,7 @@ export default function Navbar() {
         </Link>
 
         <Link
-          href="/contact"
+          href="/contactus"
           className="text-white/70 hover:text-white transition duration-200"
         >
           Contact
