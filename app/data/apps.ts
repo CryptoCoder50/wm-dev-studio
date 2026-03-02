@@ -27,6 +27,7 @@ export interface App {
       description:
         "BSC/EVM-based cryptocurrecy Dex with staking, vesting and Defi",
       tech: ["Solidity", "Next.js", "Typescript", "EVM", "GraphQl"],
+      url: "https://moon-walker-swap-front-end-main.vercel.app/",
     },
     {
       id: "golbal-tasker",
