@@ -13,6 +13,7 @@ export interface App {
       description:
         "Avalanche-based token with staking, vesting, and proof-of-funds contract.",
       tech: ["Solidity", "Next.js", "Avalanche"],
+        url: "https://smokie-joe.vercel.app/"
     },
     {
       id: "ai-trading",
