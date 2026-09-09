@@ -3,6 +3,7 @@ export interface App {
     title: string;
     description: string;
     tech: string[];
+    icon?: string;
     url?: string;
   }
   
@@ -43,5 +44,13 @@ export interface App {
       description:
         "In this app it's focus on the the individual tracking/monitoring their finances ",
       tech: ["React-Native", "Expo", "Typescript", "Javascript", "Superbase", "PostGres DB"],
+    },
+    {
+      id: "mis_school_mgmt",
+      title: "MIS School Management System Blockchain integrtion",
+      description:
+        "EVM-based tool to be utilized by educational institutions for certificate verification, student record management, and more.",
+      tech: ["Solidity", "Next.js", "Typescript", "EVM", "API", "Superbase Postgres", "Render", "Vercel"],
+      url: "https://moon-walker-swap-front-end-main.vercel.app/",
     },
   ];

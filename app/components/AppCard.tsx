@@ -1,3 +1,5 @@
+
+
 import { App } from "../data/apps";
 
 export default function AppCard({ app }: { app: App }) {
